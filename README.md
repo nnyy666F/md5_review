@@ -1,2 +1,2 @@
 # md5_review
-This is a fast hash verification tool
+This is the fast hash verification tool I wrote. You need to use pyside6 to compile this project
